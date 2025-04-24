@@ -11,6 +11,21 @@ Task 4: Calculate the total number of students enrolled across all courses.
 
 Task 5: Sort courses by students enrolled in ascending order.
 
+## Here's the screenshots
+
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+<img src="images/student.png" alt="Alt Text" Width="900" heigth="300">
+
+
 
 
 
